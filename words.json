@@ -1,0 +1,618 @@
+{
+  "aura": {
+    "Word": "aura",
+    "Definition": "Overall vibe, energy, or personality"
+  },
+  "basic": {
+    "Word": "basic",
+    "Definition": "Pertaining to those who prefer mainstream products, trends, and music"
+  },
+  "beige flag": {
+    "Word": "beige flag",
+    "Definition": "A term used to describe neutral or unremarkable traits in a person"
+  },
+  "BDE": {
+    "Word": "BDE",
+    "Definition": "Big Dick Energy; confidence without arrogance"
+  },
+  "bestie": {
+    "Word": "bestie",
+    "Definition": "A close friend"
+  },
+  "bet": {
+    "Word": "bet",
+    "Definition": "Used to confirm or agree with something"
+  },
+  "bffr": {
+    "Word": "bffr",
+    "Definition": "Be for real; used to call out someone being unrealistic"
+  },
+  "big yikes": {
+    "Word": "big yikes",
+    "Definition": "An expression of extreme embarrassment or awkwardness"
+  },
+  "blud": {
+    "Word": "blud",
+    "Definition": "A slang term for 'bro' or 'friend'"
+  },
+  "boujee": {
+    "Word": "boujee",
+    "Definition": "Pretentious or fancy, often in a materialistic way"
+  },
+  "bop": {
+    "Word": "bop",
+    "Definition": "A song that is really good"
+  },
+  "brainrot": {
+    "Word": "brainrot",
+    "Definition": "Obsessive thoughts about something or someone"
+  },
+  "bruh": {
+    "Word": "bruh",
+    "Definition": "An expression of disbelief or frustration"
+  },
+  "bugging": {
+    "Word": "bugging",
+    "Definition": "Acting irrationally or strangely"
+  },
+  "bussin'": {
+    "Word": "bussin'",
+    "Definition": "Extremely good or tasty"
+  },
+  "bussy": {
+    "Word": "bussy",
+    "Definition": "A slang term combining 'boy' and 'pussy'"
+  },
+  "cap": {
+    "Word": "cap",
+    "Definition": "A lie or falsehood"
+  },
+  "caught in 4K": {
+    "Word": "caught in 4K",
+    "Definition": "Caught doing something wrong with undeniable evidence"
+  },
+  "clapback": {
+    "Word": "clapback",
+    "Definition": "A witty or sharp response to criticism"
+  },
+  "cook": {
+    "Word": "cook",
+    "Definition": "To perform exceptionally well"
+  },
+  "crash out": {
+    "Word": "crash out",
+    "Definition": "To fall asleep suddenly or unexpectedly"
+  },
+  "crush": {
+    "Word": "crush",
+    "Definition": "A person one has romantic feelings for"
+  },
+  "dab": {
+    "Word": "dab",
+    "Definition": "A dance move or gesture of celebration"
+  },
+  "dank": {
+    "Word": "dank",
+    "Definition": "High quality or cool"
+  },
+  "dead/ded": {
+    "Word": "dead/ded",
+    "Definition": "Used to express extreme amusement"
+  },
+  "delusionship": {
+    "Word": "delusionship",
+    "Definition": "A one-sided or imagined relationship"
+  },
+  "drip": {
+    "Word": "drip",
+    "Definition": "Stylish or fashionable clothing"
+  },
+  "era": {
+    "Word": "era",
+    "Definition": "A phase or period in someone's life"
+  },
+  "face card": {
+    "Word": "face card",
+    "Definition": "A term used to describe someone with an attractive face"
+  },
+  "failure management": {
+    "Word": "failure management",
+    "Definition": "The act of handling or managing failure"
+  },
+  "fire": {
+    "Word": "fire",
+    "Definition": "Amazing or excellent"
+  },
+  "fit/fit check": {
+    "Word": "fit/fit check",
+    "Definition": "Outfit or a review of someone's outfit"
+  },
+  "finna": {
+    "Word": "finna",
+    "Definition": "About to do something"
+  },
+  "flop": {
+    "Word": "flop",
+    "Definition": "A failure or disappointment"
+  },
+  "gagged": {
+    "Word": "gagged",
+    "Definition": "Shocked or amazed"
+  },
+  "ghost": {
+    "Word": "ghost",
+    "Definition": "To suddenly cut off communication with someone"
+  },
+  "girlboss": {
+    "Word": "girlboss",
+    "Definition": "A woman who is ambitious and successful"
+  },
+  "glaze": {
+    "Word": "glaze",
+    "Definition": "To flatter excessively"
+  },
+  "glizzy": {
+    "Word": "glizzy",
+    "Definition": "A slang term for hot dog"
+  },
+  "glow-up": {
+    "Word": "glow-up",
+    "Definition": "A transformation to a better appearance or state"
+  },
+  "GOAT": {
+    "Word": "GOAT",
+    "Definition": "Greatest of All Time"
+  },
+  "Gucci": {
+    "Word": "Gucci",
+    "Definition": "Good or cool"
+  },
+  "hit different": {
+    "Word": "hit different",
+    "Definition": "To have a unique or special impact"
+  },
+  "huzz": {
+    "Word": "huzz",
+    "Definition": "A slang term for husband"
+  },
+  "ick": {
+    "Word": "ick",
+    "Definition": "A feeling of disgust or aversion"
+  },
+  "IJBOL": {
+    "Word": "IJBOL",
+    "Definition": "I Just Burst Out Laughing"
+  },
+  "I oop": {
+    "Word": "I oop",
+    "Definition": "An expression of surprise or shock"
+  },
+  "iPad kid": {
+    "Word": "iPad kid",
+    "Definition": "A child who is always on their iPad"
+  },
+  "it's giving": {
+    "Word": "it's giving",
+    "Definition": "Used to describe the vibe or energy something has"
+  },
+  "iykyk": {
+    "Word": "iykyk",
+    "Definition": "If You Know, You Know"
+  },
+  "jit": {
+    "Word": "jit",
+    "Definition": "A young person or kid"
+  },
+  "Karen": {
+    "Word": "Karen",
+    "Definition": "A term for an entitled or demanding woman"
+  },
+  "L": {
+    "Word": "L",
+    "Definition": "A loss or failure"
+  },
+  "lit": {
+    "Word": "lit",
+    "Definition": "Exciting or fun"
+  },
+  "looksmaxxing": {
+    "Word": "looksmaxxing",
+    "Definition": "Improving one's appearance to the maximum"
+  },
+  "lore": {
+    "Word": "lore",
+    "Definition": "Background story or history"
+  },
+  "main character": {
+    "Word": "main character",
+    "Definition": "Someone who acts as if they are the center of attention"
+  },
+  "mew": {
+    "Word": "mew",
+    "Definition": "A soft sound made by a cat"
+  },
+  "mid": {
+    "Word": "mid",
+    "Definition": "Mediocre or average"
+  },
+  "mog": {
+    "Word": "mog",
+    "Definition": "To dominate or outshine someone"
+  },
+  "moot/moots": {
+    "Word": "moot/moots",
+    "Definition": "Mutual followers on social media"
+  },
+  "Netflix and chill": {
+    "Word": "Netflix and chill",
+    "Definition": "A euphemism for hooking up"
+  },
+  "nyaa": {
+    "Word": "nyaa",
+    "Definition": "The sound a cat makes in Japanese"
+  },
+  "no cap": {
+    "Word": "no cap",
+    "Definition": "No lie or for real"
+  },
+  "OK boomer": {
+    "Word": "OK boomer",
+    "Definition": "A dismissive response to outdated opinions"
+  },
+  "oof": {
+    "Word": "oof",
+    "Definition": "An expression of sympathy or disappointment"
+  },
+  "oomf": {
+    "Word": "oomf",
+    "Definition": "One of my followers"
+  },
+  "opp": {
+    "Word": "opp",
+    "Definition": "An enemy or rival"
+  },
+  "out of pocket": {
+    "Word": "out of pocket",
+    "Definition": "Acting inappropriately or offensively"
+  },
+  "owned": {
+    "Word": "owned",
+    "Definition": "To dominate or defeat someone"
+  },
+  "periodt": {
+    "Word": "periodt",
+    "Definition": "Used to emphasize a point"
+  },
+  "pick-me": {
+    "Word": "pick-me",
+    "Definition": "Someone who seeks attention by putting others down"
+  },
+  "pookie": {
+    "Word": "pookie",
+    "Definition": "A term of endearment"
+  },
+  "queen": {
+    "Word": "queen",
+    "Definition": "A term for a strong or admirable woman"
+  },
+  "ratio": {
+    "Word": "ratio",
+    "Definition": "When a reply gets more likes than the original post"
+  },
+  "red flag": {
+    "Word": "red flag",
+    "Definition": "A warning sign of trouble"
+  },
+  "rizz": {
+    "Word": "rizz",
+    "Definition": "Charisma or charm"
+  },
+  "Roman Empire": {
+    "Word": "Roman Empire",
+    "Definition": "A historical empire often referenced in memes"
+  },
+  "salty": {
+    "Word": "salty",
+    "Definition": "Bitter or upset"
+  },
+  "secure the bag": {
+    "Word": "secure the bag",
+    "Definition": "To achieve success or obtain money"
+  },
+  "sheesh": {
+    "Word": "sheesh",
+    "Definition": "An expression of amazement or disbelief"
+  },
+  "shook": {
+    "Word": "shook",
+    "Definition": "Shocked or surprised"
+  },
+  "simp": {
+    "Word": "simp",
+    "Definition": "Someone who does too much for someone they like"
+  },
+  "situationship": {
+    "Word": "situationship",
+    "Definition": "A romantic relationship that lacks commitment"
+  },
+  "sksksk": {
+    "Word": "sksksk",
+    "Definition": "An expression of excitement or laughter"
+  },
+  "slaps": {
+    "Word": "slaps",
+    "Definition": "Something that is really good"
+  },
+  "slay": {
+    "Word": "slay",
+    "Definition": "To do something exceptionally well"
+  },
+  "snatched": {
+    "Word": "snatched",
+    "Definition": "Looking good or stylish"
+  },
+  "stan": {
+    "Word": "stan",
+    "Definition": "To be a fan of someone or something"
+  },
+  "sus": {
+    "Word": "sus",
+    "Definition": "Suspicious or questionable"
+  },
+  "sussy baka": {
+    "Word": "sussy baka",
+    "Definition": "A playful term for someone acting suspiciously"
+  },
+  "skill issue": {
+    "Word": "skill issue",
+    "Definition": "A term used to mock someone's lack of ability"
+  },
+  "tea": {
+    "Word": "tea",
+    "Definition": "Gossip or news"
+  },
+  "touch grass": {
+    "Word": "touch grass",
+    "Definition": "A phrase used to tell someone to go outside and relax"
+  },
+  "tweaking": {
+    "Word": "tweaking",
+    "Definition": "Acting irrationally or strangely"
+  },
+  "unalive": {
+    "Word": "unalive",
+    "Definition": "A euphemism for death"
+  },
+  "understood the assignment": {
+    "Word": "understood the assignment",
+    "Definition": "To excel at a task or situation"
+  },
+  "uwu": {
+    "Word": "uwu",
+    "Definition": "A cute or happy expression"
+  },
+  "valid": {
+    "Word": "valid",
+    "Definition": "Authentic or acceptable"
+  },
+  "vibe check": {
+    "Word": "vibe check",
+    "Definition": "An assessment of someone's mood or energy"
+  },
+  "VSCO girl": {
+    "Word": "VSCO girl",
+    "Definition": "A stereotype of a trendy girl who uses the VSCO app"
+  },
+  "W": {
+    "Word": "W",
+    "Definition": "A win or success"
+  },
+  "wig": {
+    "Word": "wig",
+    "Definition": "An expression of amazement"
+  },
+  "who is this diva?": {
+    "Word": "who is this diva?",
+    "Definition": "A playful term for someone acting dramatically"
+  },
+  "yap": {
+    "Word": "yap",
+    "Definition": "To talk excessively"
+  },
+  "yeet": {
+    "Word": "yeet",
+    "Definition": "To throw something forcefully"
+  },
+  "skibidi": {
+    "Word": "skibidi",
+    "Definition": "A term from a viral dance trend"
+  },
+  "gyatt": {
+    "Word": "gyatt",
+    "Definition": "A term used to express admiration"
+  },
+  "only in ohio": {
+    "Word": "only in ohio",
+    "Definition": "A phrase used to describe bizarre occurrences"
+  },
+  "duke dennis": {
+    "Word": "duke dennis",
+    "Definition": "A popular content creator"
+  },
+  "did you pray today": {
+    "Word": "did you pray today",
+    "Definition": "A phrase used to encourage reflection"
+  },
+  "livvy dunne": {
+    "Word": "livvy dunne",
+    "Definition": "A famous gymnast and social media personality"
+  },
+  "rizzing up": {
+    "Word": "rizzing up",
+    "Definition": "Flirting or charming someone"
+  },
+  "baby gronk": {
+    "Word": "baby gronk",
+    "Definition": "A term referencing a young football prodigy"
+  },
+  "sussy imposter": {
+    "Word": "sussy imposter",
+    "Definition": "A term from the game Among Us"
+  },
+  "pibby glitch": {
+    "Word": "pibby glitch",
+    "Definition": "A term from a viral animation concept"
+  },
+  "in real life": {
+    "Word": "in real life",
+    "Definition": "Referring to something happening offline"
+  },
+  "sigma male": {
+    "Word": "sigma male",
+    "Definition": "A term for an independent and self-reliant man"
+  },
+  "alpha male": {
+    "Word": "alpha male",
+    "Definition": "A term for a dominant and confident man"
+  },
+  "omega male": {
+    "Word": "omega male",
+    "Definition": "A term for a man who is independent and avoids traditional hierarchies"
+  },
+  "grindset": {
+    "Word": "grindset",
+    "Definition": "A mindset focused on hard work and success"
+  },
+  "andrew tate": {
+    "Word": "andrew tate",
+    "Definition": "A controversial internet personality"
+  },
+  "goon cave": {
+    "Word": "goon cave",
+    "Definition": "A term for a secluded space used for relaxation"
+  },
+  "freddy fazbear": {
+    "Word": "freddy fazbear",
+    "Definition": "A character from the game Five Nights at Freddy's"
+  },
+  "colleen ballinger": {
+    "Word": "colleen ballinger",
+    "Definition": "A YouTuber known for her character Miranda Sings"
+  },
+  "smurf cat": {
+    "Word": "smurf cat",
+    "Definition": "A term from a viral meme"
+  },
+  "strawberry elephant": {
+    "Word": "strawberry elephant",
+    "Definition": "A term from a whimsical concept"
+  },
+  "dawg": {
+    "Word": "dawg",
+    "Definition": "A slang term for 'friend'"
+  },
+  "shmlawg": {
+    "Word": "shmlawg",
+    "Definition": "A playful variation of 'dawg'"
+  },
+  "ishowspeed": {
+    "Word": "ishowspeed",
+    "Definition": "A popular streamer and content creator"
+  },
+  "a whole bunch of turbulence": {
+    "Word": "a whole bunch of turbulence",
+    "Definition": "A phrase used to describe chaos or disorder"
+  },
+  "ambatukam": {
+    "Word": "ambatukam",
+    "Definition": "A term from a viral meme"
+  },
+  "bro really thinks he's carti": {
+    "Word": "bro really thinks he's carti",
+    "Definition": "A phrase used to mock someone imitating rapper Playboi Carti"
+  },
+  "literally hitting the griddy": {
+    "Word": "literally hitting the griddy",
+    "Definition": "A phrase referencing a popular dance move"
+  },
+  "the ocky way": {
+    "Word": "the ocky way",
+    "Definition": "A term from a viral cooking trend"
+  },
+  "kai cenat": {
+    "Word": "kai cenat",
+    "Definition": "A popular streamer and content creator"
+  },
+  "fanum tax": {
+    "Word": "fanum tax",
+    "Definition": "A term from a viral internet trend"
+  },
+  "garten of banban": {
+    "Word": "garten of banban",
+    "Definition": "A term from a viral game"
+  },
+  "no edging in class": {
+    "Word": "no edging in class",
+    "Definition": "A phrase used humorously to describe focus"
+  },
+  "not the mosquito again": {
+    "Word": "not the mosquito again",
+    "Definition": "A phrase used to express frustration"
+  },
+  "bussing": {
+    "Word": "bussing",
+    "Definition": "Extremely good or tasty"
+  },
+  "axel in harlem": {
+    "Word": "axel in harlem",
+    "Definition": "A term from a viral animation"
+  },
+  "whopper": {
+    "Word": "whopper",
+    "Definition": "A phrase from a viral advertisement"
+  },
+  "1 2 buckle my shoe": {
+    "Word": "1 2 buckle my shoe",
+    "Definition": "A phrase from a viral nursery rhyme trend"
+  },
+  "goofy ahh": {
+    "Word": "goofy ahh",
+    "Definition": "A term used to describe something silly or absurd"
+  },
+  "aiden ross": {
+    "Word": "aiden ross",
+    "Definition": "A popular streamer and content creator"
+  },
+  "sin city": {
+    "Word": "sin city",
+    "Definition": "A term referencing a popular song or concept"
+  },
+  "monday left me broken": {
+    "Word": "monday left me broken",
+    "Definition": "A phrase from a viral song lyric"
+  },
+  "quirked up white boy": {
+    "Word": "quirked up white boy",
+    "Definition": "A term from a viral internet trend"
+  },
+  "busting it down style": {
+    "Word": "busting it down style",
+    "Definition": "A phrase used to describe dancing energetically"
+  },
+  "goated with the sauce": {
+    "Word": "goated with the sauce",
+    "Definition": "A phrase used to describe someone exceptionally skilled"
+  },
+  "john pork": {
+    "Word": "john pork",
+    "Definition": "A term from a viral internet trend"
+  },
+  "grimace shake": {
+    "Word": "grimace shake",
+    "Definition": "A term from a viral internet trend"
+  },
+  "kiki": {
+    "Word": "kiki",
+    "Definition": "A term used to describe a fun or playful gathering"
+  }
+}
