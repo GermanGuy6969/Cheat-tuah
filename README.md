@@ -15,6 +15,8 @@ A Python application that helps you find modern internet slang words and their d
 2. Click "Find Word" to search for matching words
 3. View the entire dictionary with "View Dictionary"
 
+**Note:** Due to game restrictions, you cannot copy-paste words directly into the game. You'll need to type the words manually.
+
 ## Credits
 
 - Game created by [The-CodingSloth](https://github.com/The-CodingSloth/brainrot-games)
