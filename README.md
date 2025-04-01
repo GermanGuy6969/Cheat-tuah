@@ -19,4 +19,4 @@ A Python application that helps you find modern internet slang words and their d
 
 - Game created by [The-CodingSloth](https://github.com/The-CodingSloth/brainrot-games)
 - Cheat code developed by GermanGuy6969
-- Play the game at [brainrot-games.netlify.app](https://brainrot-games.netlify.app/)
+- Play the game at [brainrot-games.netlify.app](https://brainrot-games.netlify.app/
