@@ -1,24 +1,41 @@
-# Word Tuah Dictionary
+# Word Tuah Solver
 
-A Python application that helps you find modern internet slang words and their definitions. This dictionary was created to help with the game [Word Tuah](https://brainrot-games.netlify.app/) made by [The-CodingSloth](https://github.com/The-CodingSloth/brainrot-games).
+A helper tool for the game [Word Tuah](https://brainrot-games.netlify.app/) that helps you find possible word matches based on your guesses.
 
-## Features
+## About Word Tuah
 
-- Search words by definition
-- View all dictionary entries
-- Smart matching algorithm that finds similar definitions
-- Local JSON storage for word database
+Word Tuah is a variation of Wordle using internet slang and meme culture words, created by [The-CodingSloth](https://github.com/The-CodingSloth/brainrot-games).
 
 ## How to Use
 
-1. Enter a definition in the text box
-2. Click "Find Word" to search for matching words
-3. View the entire dictionary with "View Dictionary"
+1. After each guess in Word Tuah, input your results:
+   - Green tiles: Enter letters in the "Correct Letters" boxes
+   - Yellow tiles: Enter letters in the "Misplaced Letters" boxes
+   - Grey tiles: Add letters to the "Excluded Letters" field
 
-**Note:** Due to game restrictions, you cannot copy-paste the definitions directly into the game. You'll need to type the words manually.
+2. Click "Search" to see possible matching words
+
+3. The tool will show you all possible words that match your input
+
+## Installation
+
+1. Clone this repository
+2. Install requirements:
+   ```
+   pip install flask
+   ```
+3. Run the application:
+   ```
+   python app.py
+   ```
+4. Open `http://localhost:5000` in your browser
 
 ## Credits
 
-- Game created by [The-CodingSloth](https://github.com/The-CodingSloth/brainrot-games)
-- Cheat code developed by GermanGuy6969
-- Play the game at [brainrot-games.netlify.app](https://brainrot-games.netlify.app/)
+- Word Tuah game by [The-CodingSloth](https://github.com/The-CodingSloth/brainrot-games)
+- Word list compiled from internet slang and meme culture
+- Solver tool developed by The Goat, GermanGuy6969
+
+## Disclaimer
+
+This tool is meant for learning and practice. Please enjoy Word Tuah as intended by its creator.
