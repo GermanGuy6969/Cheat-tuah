@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Word Tuah Solver</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Word Tuah Solver</h1>
+    <div class="finder-container">
+        <div class="input-section">
+            <div class="letter-input" id="correctLetters">
+                <input type="text" maxlength="1">
+                <input type="text" maxlength="1">
+                <input type="text" maxlength="1">
+                <input type="text" maxlength="1">
+                <input type="text" maxlength="1">
+            </div>
+
+            <div class="letter-input" id="misplacedLetters">
+                <input type="text" maxlength="1">
+                <input type="text" maxlength="1">
+                <input type="text" maxlength="1">
+                <input type="text" maxlength="1">
+                <input type="text" maxlength="1">
+            </div>
+
+            <input type="text" id="excludedLetters" class="excluded-input">
+
+            <div class="button-group">
+                <button id="searchButton" class="search-button">Search</button>
+                <button id="clearButton" class="clear-button">Clear All</button>
+            </div>
+            <div id="resultsContainer" class="results-container"></div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
