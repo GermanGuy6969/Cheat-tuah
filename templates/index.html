@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Wordle Word Finder</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Wordle Word Finder</h1>
+    <div class="finder-container">
+        <div class="input-section">
+            <h3>Correct Letters</h3>
+            <p>Letters in the word and in the correct position (green tiles)</p>
+            <div class="letter-input" id="correctLetters">
+                <input type="text" maxlength="1">
+                <input type="text" maxlength="1">
+                <input type="text" maxlength="1">
+                <input type="text" maxlength="1">
+                <input type="text" maxlength="1">
+            </div>
+
+            <h3>Misplaced Letters</h3>
+            <p>Letters in the word but in the wrong position (yellow tiles)</p>
+            <div class="letter-input" id="misplacedLetters">
+                <input type="text" maxlength="1">
+                <input type="text" maxlength="1">
+                <input type="text" maxlength="1">
+                <input type="text" maxlength="1">
+                <input type="text" maxlength="1">
+            </div>
+
+            <h3>Excluded Letters</h3>
+            <p>Letters not in the word in any spot (dark grey tiles)</p>
+            <input type="text" id="excludedLetters" class="excluded-input">
+
+            <div class="button-group">
+                <button id="searchButton" class="search-button">Search</button>
+                <button id="clearButton" class="clear-button">Clear All</button>
+            </div>
+            <div id="resultsContainer" class="results-container"></div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
